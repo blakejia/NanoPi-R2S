@@ -1,4 +1,5 @@
-## 开启dockerman ad
+## 20200302
+* 开启dockerman ad
 
 ## 20200229
 * 官方修复每次重启 Mac 地址变化问题
